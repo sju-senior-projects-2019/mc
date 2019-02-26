@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>pslr12.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\train\pslr12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Puma Suede Low Red</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>200</ymin>
+			<xmax>358</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Puma Suede Low Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>161</ymin>
+			<xmax>575</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

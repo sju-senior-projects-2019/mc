@@ -1,0 +1,62 @@
+<annotation>
+	<folder>train</folder>
+	<filename>aj4m (2).JPG</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\train\aj4m (2).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Air Jordan 4 Motorsport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2408</xmin>
+			<ymin>493</ymin>
+			<xmax>3672</xmax>
+			<ymax>2261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Air Jordan 4 Motorsport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1854</xmin>
+			<ymin>852</ymin>
+			<xmax>2931</xmax>
+			<ymax>2416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vans Old Skool Blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1077</xmin>
+			<ymin>1875</ymin>
+			<xmax>2227</xmax>
+			<ymax>2434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vans Old Skool Blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1122</xmin>
+			<ymin>1466</ymin>
+			<xmax>2058</xmax>
+			<ymax>2030</ymax>
+		</bndbox>
+	</object>
+</annotation>

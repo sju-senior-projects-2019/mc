@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>grimreaper10.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\train\grimreaper10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>740</width>
+		<height>555</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike Blazer Grim Reaper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>97</ymin>
+			<xmax>576</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

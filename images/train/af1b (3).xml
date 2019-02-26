@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>af1b (3).JPG</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\train\af1b (3).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Air Force One Blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1081</xmin>
+			<ymin>307</ymin>
+			<xmax>3163</xmax>
+			<ymax>2916</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Air Jordan 4 Motorsport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>908</xmin>
+			<ymin>780</ymin>
+			<xmax>2245</xmax>
+			<ymax>2834</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>glob2.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\train\glob2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike SB Dunk Green Lobster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>13</ymin>
+			<xmax>496</xmax>
+			<ymax>515</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nike SB Dunk Green Lobster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>80</ymin>
+			<xmax>636</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>
