@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>vansblue9.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\vansblue9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>658</width>
+		<height>840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vans Old Skool Blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>423</ymin>
+			<xmax>640</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>

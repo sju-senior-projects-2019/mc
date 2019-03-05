@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>spiderman9.JPG</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\train\spiderman9.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>530</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Air Jordan 1 Spiderman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>89</ymin>
+			<xmax>465</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>spiderman3.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\spiderman3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Air Jordan 1 Spiderman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>137</ymin>
+			<xmax>549</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+</annotation>

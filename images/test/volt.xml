@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>volt.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\volt.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>681</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Air Force One Volt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>77</ymin>
+			<xmax>591</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

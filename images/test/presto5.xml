@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>presto5.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\presto5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike x OFF--WHITE Air Presto OG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>51</ymin>
+			<xmax>652</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>

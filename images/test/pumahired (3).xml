@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>pumahired (3).JPG</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\pumahired (3).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Puma Suede Hi Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1645</xmin>
+			<ymin>352</ymin>
+			<xmax>2804</xmax>
+			<ymax>2620</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vans Old Skool Black</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1011</ymin>
+			<xmax>786</xmax>
+			<ymax>3002</ymax>
+		</bndbox>
+	</object>
+</annotation>

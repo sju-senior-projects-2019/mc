@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>aws15.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\aws15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>394</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adidas AW Skate Sand</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>285</ymin>
+			<xmax>394</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

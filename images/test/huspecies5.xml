@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>huspecies5.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\huspecies5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adidas Pharrell Human Species</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>235</ymin>
+			<xmax>567</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

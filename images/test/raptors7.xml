@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>raptors7.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\raptors7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Air Jordan 4 Raptors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>103</ymin>
+			<xmax>459</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

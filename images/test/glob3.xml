@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>glob3.jpg</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\glob3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nike SB Dunk Green Lobster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>171</ymin>
+			<xmax>605</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

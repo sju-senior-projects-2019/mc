@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>af1b (9).JPG</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\test\af1b (9).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Air Force One Blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1408</xmin>
+			<ymin>907</ymin>
+			<xmax>3795</xmax>
+			<ymax>2420</ymax>
+		</bndbox>
+	</object>
+</annotation>

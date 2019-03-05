@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>vansblue (5).JPG</filename>
+	<path>C:\Users\hp\Documents\SJU\Spring '19\Senior Project\WAT Project\images\train\vansblue (5).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vans Old Skool Blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1945</xmin>
+			<ymin>852</ymin>
+			<xmax>3822</xmax>
+			<ymax>1993</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Air Jordan 4 Motorsport</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>616</ymin>
+			<xmax>1890</xmax>
+			<ymax>2180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vans Old Skool Blue</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1622</ymin>
+			<xmax>1022</xmax>
+			<ymax>2202</ymax>
+		</bndbox>
+	</object>
+</annotation>
